@@ -3,7 +3,8 @@
 
 Bu proje, **Kocaeli Üniversitesi Bilgisayar Mühendisliği Programlama Laboratuvarı dersi** kapsamında geliştirilmiş olup, araç içi güvenlik ve kontrol mekanizmalarının **gömülü sistemler** ile **simülasyon ortamında** gerçekleştirilmesini amaçlamaktadır.
 
-![Image](https://github.com/user-attachments/assets/721c7c67-0046-4daa-b635-53ae9665000b)
+![Ekran görüntüsü 2025-04-26 010021](https://github.com/user-attachments/assets/4777da8b-4237-4ca7-9a53-7a72cec0cdc0)
+
 
 ## 🎯 Proje Amacı
 
@@ -76,7 +77,8 @@ Bu senaryolar, **otomotiv elektroniği** mantığının küçük ölçekte nası
 
 ---
 
-![Image](https://github.com/user-attachments/assets/41c9d1b4-772f-4ffe-ac10-0f63b880c63d)
+![Ekran görüntüsü 2025-04-26 094747](https://github.com/user-attachments/assets/da08d640-835e-49b1-a435-5b894d13070e)
+
 
 ## 👨‍💻 Geliştirici
 
